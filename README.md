@@ -6,6 +6,8 @@
   <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">FEUP</a>
 </p>
 
+<p>&nbsp;</p>
+
 ---
 
 <p>&nbsp;</p>
@@ -37,18 +39,6 @@ I love history, reading and traveling — always curious to explore new perspect
 
 <p>&nbsp;</p>
 
-## Languages
-🇵🇹 Portuguese (Native)  
-🇬🇧 English (C1)  
-🇪🇸 Spanish (B2) 
-
-<p>&nbsp;</p>
-
-## Education
-**BSc in Informatics and Computing Engineering** - Faculty of Engineering, University of Porto (FEUP)
-
-<p>&nbsp;</p>
-
 ## Let’s Connect
-✉️ luafimali@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/luana-lima-33091ba9/)
+✉️  luafimali@gmail.com  
+🔗  [LinkedIn](https://www.linkedin.com/in/luana-lima-33091ba9/)
